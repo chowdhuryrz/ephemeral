@@ -179,7 +179,7 @@ const Page = () => {
                   {msg.sender === username ? "YOU" : msg.sender}
                 </span>
 
-                <span className="text-[10px text-zinc-600]">
+                <span className="text-[10px] text-zinc-600">
                   {format(msg.timestamp, "HH:mm")}
                 </span>
               </div>
