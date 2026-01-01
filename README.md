@@ -1,2 +1,1 @@
-
-https://private-chat-app-murex.vercel.app/
+https://ephemeral-murex.vercel.app/
